@@ -1,0 +1,62 @@
+{
+  "Cedric Diggory": {
+    "primary_house": "Gryffindor",
+    "secondary_house": "Hufflepuff",
+    "scores": {
+      "Gryffindor": 0.3561009466648102,
+      "Ravenclaw": 0.22103886306285858,
+      "Hufflepuff": 0.2704690098762512,
+      "Slytherin": 0.23072944581508636
+    }
+  },
+  "Draco Malfoy": {
+    "primary_house": "Slytherin",
+    "secondary_house": "Gryffindor",
+    "scores": {
+      "Gryffindor": 0.3169325888156891,
+      "Ravenclaw": 0.19568762183189392,
+      "Hufflepuff": 0.22052103281021118,
+      "Slytherin": 0.33832642436027527
+    }
+  },
+  "Harry Potter": {
+    "primary_house": "Gryffindor",
+    "secondary_house": "Slytherin",
+    "scores": {
+      "Gryffindor": 0.3422873914241791,
+      "Ravenclaw": 0.22744622826576233,
+      "Hufflepuff": 0.254848837852478,
+      "Slytherin": 0.2964700758457184
+    }
+  },
+  "Hermione Granger": {
+    "primary_house": "Gryffindor",
+    "secondary_house": "Slytherin",
+    "scores": {
+      "Gryffindor": 0.41042277216911316,
+      "Ravenclaw": 0.29041725397109985,
+      "Hufflepuff": 0.2995308041572571,
+      "Slytherin": 0.3431703448295593
+    }
+  },
+  "Luna Lovegood": {
+    "primary_house": "Ravenclaw",
+    "secondary_house": "Slytherin",
+    "scores": {
+      "Gryffindor": 0.23262421786785126,
+      "Ravenclaw": 0.4384327232837677,
+      "Hufflepuff": 0.1337410807609558,
+      "Slytherin": 0.26558101177215576
+    }
+  },
+  "Ron Weasley": {
+    "primary_house": "Hufflepuff",
+    "secondary_house": "Gryffindor",
+    "scores": {
+      "Gryffindor": 0.23201090097427368,
+      "Ravenclaw": 0.21557743847370148,
+      "Hufflepuff": 0.32932665944099426,
+      "Slytherin": 0.15002404153347015
+    }
+  }
+}

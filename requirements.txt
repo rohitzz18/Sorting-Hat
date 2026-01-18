@@ -1,0 +1,4 @@
+streamlit
+pandas
+sentence-transformers
+googletrans==4.0.0rc1
